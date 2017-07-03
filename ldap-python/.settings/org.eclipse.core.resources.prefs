@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//com/troila/openldap/LdapConnection.py=utf-8
+encoding//com/troila/openldap/LdapCreateEntry.py=utf-8
+encoding//com/troila/openldap/LdapDeleteEntry.py=utf-8
+encoding//com/troila/openldap/LdapModifyEntry.py=utf-8
+encoding//com/troila/openldap/LdapQueryLdap.py=utf-8
